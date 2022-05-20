@@ -1,0 +1,178 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+div {
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    
+}
+
+div.content {
+    padding-left: 100px;
+    padding-right: 100px;
+ }
+
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    height: 45px;
+    width: 80px;
+    font-weight: bolder;
+    border-radius: 10%;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    
+}
+
+li {
+    
+    margin: 5px;
+}
+
+.h {
+    flex-direction: row;
+}
+
+.mx {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.b {
+    border: 3px solid #3882f6;
+    border-radius: 15%;
+    height: 150px;
+    width: 150px;
+    align-self: center;
+}
+
+.mid {
+    align-content: center;
+}
+
+.c {
+    
+    justify-content: space-around;
+}
+
+.v {
+    
+    flex-direction: column;
+}
+
+.info {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.m {
+    margin: 48px;
+}
+
+.center {
+    justify-content: center;
+}
+
+.cta {
+    background-color: #3882f6;
+    padding: 15px;
+    border: 0;
+    border-radius: 10px;
+    color: #e5e7eb;
+}
+
+.p {
+    padding: 10px 50px 25px 50px;
+}
+
+button {
+    align-self: center;
+    justify-self: center;
+}
+
+.right {
+    justify-content: end;
+}
+
+.small-heading {
+    font-weight: bolder;
+    font-size: 26px;
+}
+
+.no {
+    display: block;
+}
+
+.hero {
+    font-size: 48px;
+    
+}
+
+.lfont {
+    color: #f9faf8;
+    
+}
+
+.dark {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18;
+}
+
+.mb {
+    margin-bottom: 50px;
+}
+
+.light {
+    background-color: whitesmoke;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+
+#logo {
+    font-size: 24px;
+    
+}
+
+#navbar {
+    
+    color: #e5e7eb;
+    font-size: 18px;
+    
+}
+
+.h.mx {
+    min-height: 300px;
+}
+
+.mt {
+    margin-top: 50px;
+}
+
+.m-small {
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+div #lfont\ logo {
+    justify-content: start;
+    margin-left: 50px;
+}
+
+
+
